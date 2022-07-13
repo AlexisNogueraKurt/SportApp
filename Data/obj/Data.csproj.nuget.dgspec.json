@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aleca\\OneDrive\\Documentos\\GitHub\\SportApp\\Data\\Data.csproj": {}
+    "C:\\Github\\SportApp-Ale\\Data\\Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aleca\\OneDrive\\Documentos\\GitHub\\SportApp\\Data\\Data.csproj": {
+    "C:\\Github\\SportApp-Ale\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aleca\\OneDrive\\Documentos\\GitHub\\SportApp\\Data\\Data.csproj",
+        "projectUniqueName": "C:\\Github\\SportApp-Ale\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\aleca\\OneDrive\\Documentos\\GitHub\\SportApp\\Data\\Data.csproj",
+        "projectPath": "C:\\Github\\SportApp-Ale\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\aleca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aleca\\OneDrive\\Documentos\\GitHub\\SportApp\\Data\\obj\\",
+        "outputPath": "C:\\Github\\SportApp-Ale\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aleca\\AppData\\Roaming\\NuGet\\NuGet.Config"
