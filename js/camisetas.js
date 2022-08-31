@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', () => {
                                 <img src="${camisetas[i].imagen}" alt="Placeholder image">
                             </div>
                             <header class="card-header">
-                                <p class="card-header-title">
+                                <p class="card-header-title is-2 ">
                                     ${camisetas[i].precio}
                                 </p>
                             </header>
