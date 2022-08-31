@@ -18,18 +18,16 @@ document.addEventListener('DOMContentLoaded', () => {
                                     ${camisetas[i].nombre}
                                     ${camisetas[i].fecha}
                                     ${camisetas[i].categoria}
-
                                 </p>
                             </header>
                             <div class="card-content">
                                 <img src="${camisetas[i].imagen}" alt="Placeholder image">
                             </div>
                             <header class="card-header">
-                                <p class="card-header-title is-2 ">
+                                <p class="card-header-title">
                                     ${camisetas[i].precio}
                                 </p>
-                            </header>
-                            
+                            </header>  
                         </div>
                     </div>
                 `
