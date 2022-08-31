@@ -4,7 +4,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     axios.get(url)
         .then(respuesta => {
-            camisetas = respuesta.datos
+            camisetas = respuesta.data
+            console.log(respuesta)
             let divCamisetas = document.getElementById('camisetas')
             let tarjetasCamisetas = '<div class="columns">'
 
@@ -14,11 +15,17 @@ document.addEventListener('DOMContentLoaded', () => {
                         <div class="card">
                             <header class="card-header">
                                 <p class="card-header-title">
-                                    ${i + 1}. ${camisetas[i].name}
+                                    ${camisetas[i].nombre}
+                                
+                                    ${camisetas[i].fecha}
+                                
+                                    ${camisetas[i].precio}
+                                
+                                    ${camisetas[i].categoria}
                                 </p>
                             </header>
                             <div class="card-content">
-                                <div class="box" style="background-color:${camisetas[i].hex}">
+                                <div class="box" style="background-camisetas: ${camisetas[i].imagen}">
                                 </div>
                             </div>
                         </div>
