@@ -1,9 +1,9 @@
 {
-	"camisetas": [
+"camisetas": [
 		{
 			"nombre": "Camiseta Ajax",
 			"imagen": "/imag/imag-Camisetas/Camisetas-PaisesBajos/1.jpg",
-			"fecha": 2020,
+			"fecha": "2020",
 			"precio": "$12000",
 			"categoria": "Club-PaisesBajos"
 		},
@@ -65,14 +65,14 @@
 		},
 		{
 			"nombre": "Camiseta Cerro Porteño",
-			"imagen": "/imag/imag-Camisetas/Camisetas-Paraguay/15.jpg",
+			"imagen": "/imag/imag-Camisetas/Camisetas-Paraguay/18.jpg",
 			"fecha": 2020,
 			"precio": "$10500",
 			"categoria": "Club-Paraguay"
 		},
 		{
 			"nombre": "Camiseta Olimpia",
-			"imagen": "/imag/imag-Camisetas/Camisetas-Paraguay/18.jpg",
+			"imagen": "/imag/imag-Camisetas/Camisetas-Paraguay/15.jpg",
 			"fecha": 2020,
 			"precio": "$9500",
 			"categoria": "Club-Paraguay"

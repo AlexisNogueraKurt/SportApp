@@ -15,12 +15,14 @@ document.addEventListener('DOMContentLoaded', () => {
                         <div class="card">
                             <header class="card-header">
                                 <p class="card-header-title">
-                                    ${camisetas[i].nombre}
+                                <a href="Camisetas/${camisetas[i].nombre.replace(/ /g, '_')}.html">${camisetas[i].nombre}</a>
+                                
                                     ${camisetas[i].fecha}
                                     ${camisetas[i].categoria}
                                 </p>
                             </header>
                             <div class="card-content">
+                            
                                 <img src="${camisetas[i].imagen}" alt="Placeholder image">
                             </div>
                             <header class="card-header">
@@ -38,7 +40,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     `
                 }
             }
-            tarjetasCamisetas += '</div>'
+            
             console.log(tarjetasCamisetas)
 
             divCamisetas.innerHTML = tarjetasCamisetas
