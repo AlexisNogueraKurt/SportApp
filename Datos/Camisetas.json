@@ -1,144 +1,144 @@
 {
-"camisetas": [
-		{
-			"nombre": "Camiseta Ajax",
-			"imagen": "/imag/imag-Camisetas/Camisetas-PaisesBajos/1.jpg",
-			"fecha": "2020",
-			"precio": "$12000",
-			"categoria": "Club-PaisesBajos"
-		},
-		{
-			"nombre": "Camiseta Borussia Dormun",
-			"imagen": "/imag/imag-Camisetas/Camisetas-Alemania/2.jpg",
-			"fecha": 2019,
-			"precio": "$9999",
-			"categoria": "Club-Aleman"
-		},
-		{
-			"nombre": "Camiseta Flamengo",
-			"imagen": "/imag/imag-Camisetas/Camisetas-Brasil/3.jpg",
-			"fecha": 2020,
-			"precio": "$10000",
-			"categoria": "Club-Brasileño"
-		},
-		{
-			"nombre": "Camiseta Palmeira",
-			"imagen": "/imag/imag-Camisetas/Camisetas-Brasil/4.jpg",
-			"fecha": 2019,
-			"precio": "$9999",
-			"categoria": "Club-Brasileño"
-		},
-		{
-			"nombre": "Camiseta River",
-			"imagen": "/imag/imag-Camisetas/Camisetas-Argentina/5.jpg",
-			"fecha": 2020,
-			"precio": "$14000",
-			"categoria": "Club-Argentino"
-		},
-		{
-			"nombre": "Camiseta Colo Colo",
-			"imagen": "/imag/imag-Camisetas/Camisetas-Chile/6.jpg",
-			"fecha": 2018,
-			"precio": "$14000",
-			"categoria": "Club-Chileno"
-		},
-		{
-			"nombre": "Camiseta Real Madrid",
-			"imagen": "/imag/imag-Camisetas/Camisetas-España/7.jpg",
-			"fecha": 2019,
-			"precio": "$15000",
-			"categoria": "Club-España"
-		},
-		{
-			"nombre": "Camiseta Atletic Madrid",
-			"imagen": "/imag/imag-Camisetas/Camisetas-España/10.jpg",
-			"fecha": 2020,
-			"precio": "$13500",
-			"categoria": "Club-España"
-		},
-		{
-			"nombre": "Camiseta Real Madrid Recambio",
-			"imagen": "/imag/imag-Camisetas/Camisetas-España/21.jpg",
-			"fecha": 2020,
-			"precio": "$15000",
-			"categoria": "Club-España"
-		},
-		{
-			"nombre": "Camiseta Cerro Porteño",
-			"imagen": "/imag/imag-Camisetas/Camisetas-Paraguay/18.jpg",
-			"fecha": 2020,
-			"precio": "$10500",
-			"categoria": "Club-Paraguay"
-		},
-		{
-			"nombre": "Camiseta Olimpia",
-			"imagen": "/imag/imag-Camisetas/Camisetas-Paraguay/15.jpg",
-			"fecha": 2020,
-			"precio": "$9500",
-			"categoria": "Club-Paraguay"
-		},
-		{
-			"nombre": "Camiseta River Oficial",
-			"imagen": "/imag/imag-Camisetas/Camisetas-Argentina/24.jpg",
-			"fecha": 2020,
-			"precio": "$10500",
-			"categoria": "Club-Argentina"
-		},
-		{
-			"nombre": "Camiseta Francia",
-			"imagen": "/imag/imag-Camisetas/Camisetas-Francia/16.jpg",
-			"fecha": 2020,
-			"precio": "$11000",
-			"categoria": "Seleccion-Francia"
-		},
-		{
-			"nombre": "Camiseta America de Cali",
-			"imagen": "/imag/imag-Camisetas/Camisetas-Colombia/25.jpg",
-			"fecha": 2020,
-			"precio": "$9000",
-			"categoria": "Club-Colombia"
-		},
-		{
-			"nombre": "Camiseta Indepemdiente Medellin",
-			"imagen": "/imag/imag-Camisetas/Camisetas-Colombia/23.jpg",
-			"fecha": 2020,
-			"precio": "$10000",
-			"categoria": "Club-Colombia"
-		},
-		{
-			"nombre": "Camiseta Independiente del Valle",
-			"imagen": "/imag/imag-Camisetas/Camisetas-Ecuador/9.jpg",
-			"fecha": 2019,
-			"precio": "$13000",
-			"categoria": "Club-Ecuador"
-		},
-		{
-			"nombre": "Camiseta Mancher United Oficial",
-			"imagen": "/imag/imag-Camisetas/Camisetas-inglaterra/12.jpg",
-			"fecha": 2018,
-			"precio": "$14000",
-			"categoria": "Club-Inglaterra"
-		},
-		{
-			"nombre": "Camiseta Man United Recambio",
-			"imagen": "/imag/imag-Camisetas/Camisetas-inglaterra/14.jpg",
-			"fecha": 2018,
-			"precio": "$10000",
-			"categoria": "Club-Inglaterra"
-		},
-		{
-			"nombre": "Camiseta Portugal",
-			"imagen": "/imag/imag-Camisetas/Camisetas-Portugal/19.jpg",
-			"fecha": 2020,
-			"precio": "$13000",
-			"categoria": "Seleccion-Portugal"
-		},
-		{
-			"nombre": "Camiseta AC Milan",
-			"imagen": "/imag/imag-Camisetas/Camisetas-Italia/13.jpg",
-			"fecha": "2018/2019",
-			"precio": "$10500",
-			"categoria": "Club-Italia"
-		}
-	]
-}
+  "camisetas": [
+      {
+        "nombre": "Camiseta Ajax",
+        "imagen": "/imag/imag-Camisetas/Camisetas-PaisesBajos/1.jpg",
+        "fecha": "2020",
+        "precio": "$12000",
+        "categoria": "Club-PaisesBajos"
+      },
+      {
+        "nombre": "Camiseta Borussia Dormun",
+        "imagen": "/imag/imag-Camisetas/Camisetas-Alemania/2.jpg",
+        "fecha": 2019,
+        "precio": "$9999",
+        "categoria": "Club-Aleman"
+      },
+      {
+        "nombre": "Camiseta Flamengo",
+        "imagen": "/imag/imag-Camisetas/Camisetas-Brasil/3.jpg",
+        "fecha": 2020,
+        "precio": "$10000",
+        "categoria": "Club-Brasileño"
+      },
+      {
+        "nombre": "Camiseta Palmeira",
+        "imagen": "/imag/imag-Camisetas/Camisetas-Brasil/4.jpg",
+        "fecha": 2019,
+        "precio": "$9999",
+        "categoria": "Club-Brasileño"
+      },
+      {
+        "nombre": "Camiseta River",
+        "imagen": "/imag/imag-Camisetas/Camisetas-Argentina/5.jpg",
+        "fecha": 2020,
+        "precio": "$14000",
+        "categoria": "Club-Argentino"
+      },
+      {
+        "nombre": "Camiseta Colo Colo",
+        "imagen": "/imag/imag-Camisetas/Camisetas-Chile/6.jpg",
+        "fecha": 2018,
+        "precio": "$14000",
+        "categoria": "Club-Chileno"
+      },
+      {
+        "nombre": "Camiseta Real Madrid",
+        "imagen": "/imag/imag-Camisetas/Camisetas-España/7.jpg",
+        "fecha": 2019,
+        "precio": "$15000",
+        "categoria": "Club-España"
+      },
+      {
+        "nombre": "Camiseta Atletic Madrid",
+        "imagen": "/imag/imag-Camisetas/Camisetas-España/10.jpg",
+        "fecha": 2020,
+        "precio": "$13500",
+        "categoria": "Club-España"
+      },
+      {
+        "nombre": "Camiseta Real Madrid Recambio",
+        "imagen": "/imag/imag-Camisetas/Camisetas-España/21.jpg",
+        "fecha": 2020,
+        "precio": "$15000",
+        "categoria": "Club-España"
+      },
+      {
+        "nombre": "Camiseta Cerro Porteño",
+        "imagen": "/imag/imag-Camisetas/Camisetas-Paraguay/18.jpg",
+        "fecha": 2020,
+        "precio": "$10500",
+        "categoria": "Club-Paraguay"
+      },
+      {
+        "nombre": "Camiseta Olimpia",
+        "imagen": "/imag/imag-Camisetas/Camisetas-Paraguay/15.jpg",
+        "fecha": 2020,
+        "precio": "$9500",
+        "categoria": "Club-Paraguay"
+      },
+      {
+        "nombre": "Camiseta River Oficial",
+        "imagen": "/imag/imag-Camisetas/Camisetas-Argentina/24.jpg",
+        "fecha": 2020,
+        "precio": "$10500",
+        "categoria": "Club-Argentina"
+      },
+      {
+        "nombre": "Camiseta Francia",
+        "imagen": "/imag/imag-Camisetas/Camisetas-Francia/16.jpg",
+        "fecha": 2020,
+        "precio": "$11000",
+        "categoria": "Seleccion-Francia"
+      },
+      {
+        "nombre": "Camiseta America de Cali",
+        "imagen": "/imag/imag-Camisetas/Camisetas-Colombia/25.jpg",
+        "fecha": 2020,
+        "precio": "$9000",
+        "categoria": "Club-Colombia"
+      },
+      {
+        "nombre": "Camiseta Indepemdiente Medellin",
+        "imagen": "/imag/imag-Camisetas/Camisetas-Colombia/23.jpg",
+        "fecha": 2020,
+        "precio": "$10000",
+        "categoria": "Club-Colombia"
+      },
+      {
+        "nombre": "Camiseta Independiente del Valle",
+        "imagen": "/imag/imag-Camisetas/Camisetas-Ecuador/9.jpg",
+        "fecha": 2019,
+        "precio": "$13000",
+        "categoria": "Club-Ecuador"
+      },
+      {
+        "nombre": "Camiseta Mancher United Oficial",
+        "imagen": "/imag/imag-Camisetas/Camisetas-inglaterra/12.jpg",
+        "fecha": 2018,
+        "precio": "$14000",
+        "categoria": "Club-Inglaterra"
+      },
+      {
+        "nombre": "Camiseta Man United Recambio",
+        "imagen": "/imag/imag-Camisetas/Camisetas-inglaterra/14.jpg",
+        "fecha": 2018,
+        "precio": "$10000",
+        "categoria": "Club-Inglaterra"
+      },
+      {
+        "nombre": "Camiseta Portugal",
+        "imagen": "/imag/imag-Camisetas/Camisetas-Portugal/19.jpg",
+        "fecha": 2020,
+        "precio": "$13000",
+        "categoria": "Seleccion-Portugal"
+      },
+      {
+        "nombre": "Camiseta AC Milan",
+        "imagen": "/imag/imag-Camisetas/Camisetas-Italia/13.jpg",
+        "fecha": "2018/2019",
+        "precio": "$10500",
+        "categoria": "Club-Italia"
+      }
+    ]
+  }
