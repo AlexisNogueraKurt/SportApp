@@ -1,0 +1,14 @@
+.descipcion{ 
+    height: 30rem;
+    display: flex;
+    align-items: center;
+
+  
+    
+}
+.descipcion .box2{
+    height: 1250px;
+    width: 800px;
+
+
+}
