@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
                                 </p>
                             </header>
                             <div class="card-content">
-                            <a href="Camisetas/${camisetas[i].nombre.replace(/ /g, '_')}.html"> <img src="${camisetas[i].imagen}" alt="Placeholder image">
+                            <a href="Camisetas/${camisetas[i].nombre.replace(/ /g, '_')}.html"><img src="${camisetas[i].imagen}" alt="Placeholder image">
                             </div>
                             <header class="card-header">
                                 <p class="card-header-title -2 are-medium">
