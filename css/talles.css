@@ -1,0 +1,10 @@
+.talles {
+    height: 10rem;
+    display: flex;
+    align-items: center; 
+
+}
+.talles .box4{
+    height: 3200px;
+    width: 700px;
+}

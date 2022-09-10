@@ -1,0 +1,9 @@
+.detalles {
+    height: 60rem;
+    display: flex;
+    align-items: center;
+}
+.detalles .box3{
+    height: 2520px;
+    width: 200px;
+}

@@ -1,9 +1,9 @@
 .camisetas{
-    height: 30rem;
+    height: 20rem;
     display: flex;
     align-items: center;
 }
 .camisetas .box1{
     height: 290px;
-    width: 260px;
+    width: 400px;
 }
