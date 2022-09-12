@@ -1,9 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/bulma.min.css">
+  <title>Document</title>
+</head>
+<body>
+  <nav class="navbar" role="navigation" aria-label="main navigation">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="">
+        <img src="/imag/Logo/Logo.jpg" width="86" heigh="56">
+      </a>
 
-<html>
-  <head>
-     <body>
-       
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
 
-     </body>
-  </body>
+    <div id="navbarBasicExample" class="navbar-menu">
+      <div class="navbar-start">
+        <a class="navbar-item" href="PaginaInicio.html">
+          Home
+        </a>
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link">
+            Futbol
+          </a>
+
+          <div class="navbar-dropdown">
+            <a class="navbar-item" href="Camisetas.html">
+              Camiseta
+            </a>
+            <a class="navbar-item" href="Shorts.html">
+              Shorts
+            </a>
+            <a class="navbar-item" href="SeleccionAccesorios.html">
+              Accesorios
+            </a>
+
+            <hr class="navbar-divider">
+            <a class="navbar-item">
+              Report an issue
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="navbar-end">
+        <div class="navbar-item">
+          <div class="buttons">
+          </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+  <div id="shorts">
+
+  </div>
+  <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+  <script src="js/shorts.js"></script>
+  
+</body>
 </html>
