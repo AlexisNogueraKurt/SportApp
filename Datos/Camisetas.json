@@ -212,5 +212,78 @@
         "precio": "$12000",
         "categoria": "Club-PaisesBajos"
       }
+    ],
+    "accesorios":[
+      {
+        "nombre": "Camiseta Ajax",
+        "imagen": "/imag/imag-Shorts/1.jpg",
+        "fecha": "2020",
+        "precio": "$12000",
+        "categoria": "Club-PaisesBajos"
+      },
+      {
+        "nombre": "Camiseta Ajax",
+        "imagen": "/imag/imag-Shorts/1.jpg",
+        "fecha": "2020",
+        "precio": "$12000",
+        "categoria": "Club-PaisesBajos"
+      },
+      {
+        "nombre": "Camiseta Ajax",
+        "imagen": "/imag/imag-Shorts/1.jpg",
+        "fecha": "2020",
+        "precio": "$12000",
+        "categoria": "Club-PaisesBajos"
+      },
+      {
+        "nombre": "Camiseta Ajax",
+        "imagen": "/imag/imag-Shorts/1.jpg",
+        "fecha": "2020",
+        "precio": "$12000",
+        "categoria": "Club-PaisesBajos"
+      },{
+        "nombre": "Camiseta Ajax",
+        "imagen": "/imag/imag-Shorts/1.jpg",
+        "fecha": "2020",
+        "precio": "$12000",
+        "categoria": "Club-PaisesBajos"
+      },
+      {
+        "nombre": "Camiseta Ajax",
+        "imagen": "/imag/imag-Shorts/1.jpg",
+        "fecha": "2020",
+        "precio": "$12000",
+        "categoria": "Club-PaisesBajos"
+      },
+      {
+        "nombre": "Camiseta Ajax",
+        "imagen": "/imag/imag-Shorts/1.jpg",
+        "fecha": "2020",
+        "precio": "$12000",
+        "categoria": "Club-PaisesBajos"
+      },
+      {
+        "nombre": "Camiseta Ajax",
+        "imagen": "/imag/imag-Shorts/1.jpg",
+        "fecha": "2020",
+        "precio": "$12000",
+        "categoria": "Club-PaisesBajos"
+      },
+      {
+        "nombre": "Camiseta Ajax",
+        "imagen": "/imag/imag-Shorts/1.jpg",
+        "fecha": "2020",
+        "precio": "$12000",
+        "categoria": "Club-PaisesBajos"
+      },
+      {
+        "nombre": "Camiseta Ajax",
+        "imagen": "/imag/imag-Shorts/1.jpg",
+        "fecha": "2020",
+        "precio": "$12000",
+        "categoria": "Club-PaisesBajos"
+      }
     ]
+    
+  
   }
