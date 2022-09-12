@@ -1,48 +1,48 @@
 document.addEventListener('DOMContentLoaded', () => {
 
-    const url = 'http://localhost:3000/accesorios'
+    const url = 'http://localhost:3000/gorras'
 
     axios.get(url)
         .then(respuesta => {
-            accesorios = respuesta.data
+            gorras = respuesta.data
             console.log(respuesta)
-            let divAccesorios = document.getElementById('accesorios')
-            let tarjetasAccesorios = '<div class="columns">'
+            let divGorras = document.getElementById('gorras')
+            let tarjetasGorras = '<div class="columns">'
 
-            for (let i = 0; i < accesorios.length; i++) {
-                tarjetasAccesorios += `
+            for (let i = 0; i < gorras.length; i++) {
+                tarjetasGorras += `
                     <div class="column is-one-fifth">
                         <div class="card">
                             <header class="card-header">
                                 <p class="card-header-title">
-                                <a href="Camisetas/${accesorios[i].nombre.replace(/ /g, '_')}.html">${accesorios[i].nombre}</a>
+                                <a href="Camisetas/${gorras[i].nombre.replace(/ /g, '_')}.html">${gorras[i].nombre}</a>
                                 
-                                    ${accesorios[i].fecha}
-                                    ${accesorios[i].categoria}
+                                    ${gorras[i].fecha}
+                                    ${gorras[i].marca}
                                 </p>
                             </header>
                             <div class="card-content">
-                            <a href="Camisetas/${accesorios[i].nombre.replace(/ /g, '_')}.html"><img src="${accesorios[i].imagen}" alt="Placeholder image">
+                            <a href="Camisetas/${gorras[i].nombre.replace(/ /g, '_')}.html"><img src="${gorras[i].imagen}" alt="Placeholder image">
                             </div>
                             <header class="card-header">
                                 <p class="card-header-title -2 are-medium">
-                                    ${accesorios[i].precio}
+                                    ${gorras[i].precio}
                                 </p>
                             </header>  
                         </div>
                     </div>
                 `
                 if ((i + 1) % 5 == 0 && i > 0) {
-                    tarjetasAccesorios += `
+                    tarjetasGorras += `
                     </div> 
                     <div class="columns">
                     `
                 }
             }
             
-            console.log(tarjetasAccesorios)
+            console.log(tarjetasGorras)
 
-            divAccesorios.innerHTML = tarjetasAccesorios
+            divGorras.innerHTML = tarjetasGorras
 
         })
 })
