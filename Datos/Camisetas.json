@@ -8,7 +8,7 @@
         "categoria": "Club-PaisesBajos"
       },
       {
-        "nombre": "Camiseta Borussia Dormun",
+        "nombre": "Camiseta B.Dormun",
         "imagen": "/imag/imag-Camisetas/Camisetas-Alemania/2.jpg",
         "fecha": 2019,
         "precio": "$9999",
@@ -57,18 +57,11 @@
         "categoria": "Club-España"
       },
       {
-        "nombre": "Camiseta Real Madrid Recambio",
+        "nombre": "Camiseta Real Madrid",
         "imagen": "/imag/imag-Camisetas/Camisetas-España/21.jpg",
         "fecha": 2020,
         "precio": "$15000",
         "categoria": "Club-España"
-      },
-      {
-        "nombre": "Camiseta Cerro Porteño",
-        "imagen": "/imag/imag-Camisetas/Camisetas-Paraguay/18.jpg",
-        "fecha": 2020,
-        "precio": "$10500",
-        "categoria": "Club-Paraguay"
       },
       {
         "nombre": "Camiseta Olimpia",
@@ -99,28 +92,28 @@
         "categoria": "Club-Colombia"
       },
       {
-        "nombre": "Camiseta Indepemdiente Medellin",
+        "nombre": "Camiseta D.I.M",
         "imagen": "/imag/imag-Camisetas/Camisetas-Colombia/23.jpg",
         "fecha": 2020,
         "precio": "$10000",
         "categoria": "Club-Colombia"
       },
       {
-        "nombre": "Camiseta Independiente del Valle",
+        "nombre": "Camiseta D.I.V",
         "imagen": "/imag/imag-Camisetas/Camisetas-Ecuador/9.jpg",
         "fecha": 2019,
         "precio": "$13000",
         "categoria": "Club-Ecuador"
       },
       {
-        "nombre": "Camiseta Mancher United Oficial",
+        "nombre": "Camiseta Mancher United",
         "imagen": "/imag/imag-Camisetas/Camisetas-inglaterra/12.jpg",
         "fecha": 2018,
         "precio": "$14000",
         "categoria": "Club-Inglaterra"
       },
       {
-        "nombre": "Camiseta Man United Recambio",
+        "nombre": "Camiseta Man United",
         "imagen": "/imag/imag-Camisetas/Camisetas-inglaterra/14.jpg",
         "fecha": 2018,
         "precio": "$10000",
@@ -129,7 +122,7 @@
       {
         "nombre": "Camiseta Portugal",
         "imagen": "/imag/imag-Camisetas/Camisetas-Portugal/19.jpg",
-        "fecha": 2020,
+        "fecha": "2020",
         "precio": "$13000",
         "categoria": "Seleccion-Portugal"
       },
@@ -139,6 +132,14 @@
         "fecha": "2018/2019",
         "precio": "$10500",
         "categoria": "Club-Italia"
+      },
+      {
+        "nombre": "Camiseta Boca Juniors",
+        "imagen": "/imag/imag-Camisetas/Camisetas-Argentina/Boca22.jpg",
+        "fecha": "2022/2023",
+        "precio": "$10500",
+        "categoria": "Club-Argentina"
+
       }
     ]
   }
