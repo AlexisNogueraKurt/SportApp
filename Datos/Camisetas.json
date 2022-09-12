@@ -229,8 +229,8 @@
         "marca": "Nike"
       },
       {
-        "nombre": "Gorra Nike Sb",
-        "imagen": "/imag/imag-Gorras/Nike/1.jpg",
+        "nombre": "Gorra Adidas",
+        "imagen": "/imag/imag-Gorras/Adidas/1.jpg",
         "fecha": "2015",
         "precio": "$5000",
         "marca": "Nike"
@@ -279,7 +279,7 @@
       },
       {
         "nombre": "Gorra Nike Sb",
-        "imagen": "/imag/imag-Gorras/Nike/1.jpg",
+        "imagen": "/imag/imag-Gorras/Adidas/1.jpg",
         "fecha": "2015",
         "precio": "$5000",
         "marca": "Nike"
