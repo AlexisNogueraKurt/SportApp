@@ -222,8 +222,8 @@
         "marca": "Nike"
       },
       {
-        "nombre": "Gorra Nike Sb",
-        "imagen": "/imag/imag-Gorras/Nike/1.jpg",
+        "nombre": "Gorra Nike Trucker",
+        "imagen": "/imag/imag-Gorras/Nike/2.jpg",
         "fecha": "2015",
         "precio": "$5000",
         "marca": "Nike"
@@ -264,11 +264,11 @@
         "marca": "Nike"
       },
       {
-        "nombre": "Camiseta Ajax",
-        "imagen": "/imag/imag-Shorts/1.jpg",
-        "fecha": "2020",
-        "precio": "$12000",
-        "categoria": "Club-PaisesBajos"
+        "nombre": "Gorra Nike Sb",
+        "imagen": "/imag/imag-Gorras/Nike/1.jpg",
+        "fecha": "2015",
+        "precio": "$5000",
+        "marca": "Nike"
       },
       {
         "nombre": "Gorra Nike Sb",
