@@ -134,7 +134,7 @@
         "categoria": "Club-Italia"
       },
       {
-        "nombre": "Camiseta Boca Juniors",
+        "nombre": "Camiseta Boca",
         "imagen": "/imag/imag-Camisetas/Camisetas-Argentina/Boca22.jpg",
         "fecha": "2022/2023",
         "precio": "$10500",
@@ -236,8 +236,8 @@
         "marca": "Nike"
       },
       {
-        "nombre": "Gorra Nike Sb",
-        "imagen": "/imag/imag-Gorras/Nike/1.jpg",
+        "nombre": "Gorra Adidas snaptrucker",
+        "imagen": "/imag/imag-Gorras/adidas/2.jpg",
         "fecha": "2015",
         "precio": "$5000",
         "marca": "Nike"
