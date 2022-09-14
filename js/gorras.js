@@ -15,14 +15,14 @@ document.addEventListener('DOMContentLoaded', () => {
                         <div class="card">
                             <header class="card-header">
                                 <p class="card-header-title">
-                                <a href="Camisetas/${gorras[i].nombre.replace(/ /g, '_')}.html">${gorras[i].nombre}</a>
+                                <a href="Gorras/${gorras[i].nombre.replace(/ /g, '_')}.html">${gorras[i].nombre}</a>
                                 
                                     ${gorras[i].fecha}
                                     ${gorras[i].marca}
                                 </p>
                             </header>
                             <div class="card-content">
-                            <a href="Camisetas/${gorras[i].nombre.replace(/ /g, '_')}.html"><img src="${gorras[i].imagen}" alt="Placeholder image">
+                            <a href="Gorras/${gorras[i].nombre.replace(/ /g, '_')}.html"><img src="${gorras[i].imagen}" alt="Placeholder image">
                             </div>
                             <header class="card-header">
                                 <p class="card-header-title -2 are-medium">
