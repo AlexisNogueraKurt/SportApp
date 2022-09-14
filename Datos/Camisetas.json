@@ -288,7 +288,154 @@
         "precio": "$5000",
         "marca": "Nike"
       }
-    ]
+
+
+
+      
+    ],
+    "botines": [
+      {
+        "nombre": "botin 1",
+        "imagen": "/imag/imag-Botines/",
+        "fecha": "2020",
+        "precio": "$12000",
+        "categoria": "Club-PaisesBajos"
+      },
+      {
+        "nombre": "botin 2",
+        "imagen": "/imag/imag-Botines/",
+        "fecha": 2019,
+        "precio": "$9999",
+        "categoria": "Club-Aleman"
+      },
+      {
+        "nombre": "botin 3",
+        "imagen": "/imag/imag-Botines/",
+        "fecha": 2020,
+        "precio": "$10000",
+        "categoria": "Club-Brasileño"
+      },
+      {
+        "nombre": "botin 4",
+        "imagen": "/imag/imag-Botines/",
+        "fecha": 2019,
+        "precio": "$9999",
+        "categoria": "Club-Brasileño"
+      },
+      {
+        "nombre": "botin 5",
+        "imagen": "/imag/imag-Botines/",
+        "fecha": 2020,
+        "precio": "$14000",
+        "categoria": "Club-Argentino"
+      },
+      {
+        "nombre": "botin 6",
+        "imagen": "/imag/imag-Botines/",
+        "fecha": 2018,
+        "precio": "$14000",
+        "categoria": "Club-Chileno"
+      },
+      {
+        "nombre": "botin 7",
+        "imagen": "/imag/imag-Botines/",
+        "fecha": 2019,
+        "precio": "$15000",
+        "categoria": "Club-España"
+      },
+      {
+        "nombre": "botin 8",
+        "imagen": "/imag/imag-Botines/",
+        "fecha": 2020,
+        "precio": "$13500",
+        "categoria": "Club-España"
+      },
+      {
+        "nombre": "botin 9",
+        "imagen": "/imag/imag-Botines/",
+        "fecha": 2020,
+        "precio": "$15000",
+        "categoria": "Club-España"
+      },
+      {
+        "nombre": "botin 10",
+        "imagen": "/imag/imag-Botines/",
+        "fecha": 2020,
+        "precio": "$9500",
+        "categoria": "Club-Paraguay"
+      },
+      {
+        "nombre": "botin 11",
+        "imagen": "/imag/imag-Botines/",
+        "fecha": 2020,
+        "precio": "$10500",
+        "categoria": "Club-Argentina"
+      },
+      {
+        "nombre": "botin 12",
+        "imagen": "/imag/imag-Botines/",
+        "fecha": 2020,
+        "precio": "$11000",
+        "categoria": "Seleccion-Francia"
+      },
+      {
+        "nombre": "botin 13",
+        "imagen": "/imag/imag-Botines/",
+        "fecha": 2020,
+        "precio": "$9000",
+        "categoria": "Club-Colombia"
+      },
+      {
+        "nombre": "botin 14",
+        "imagen": "/imag/imag-Botines/",
+        "fecha": 2020,
+        "precio": "$10000",
+        "categoria": "Club-Colombia"
+      },
+      {
+        "nombre": "botin 15",
+        "imagen": "/imag/imag-Botines/",
+        "fecha": 2019,
+        "precio": "$13000",
+        "categoria": "Club-Ecuador"
+      },
+      {
+        "nombre": "botin 16",
+        "imagen": "/imag/imag-Botines/",
+        "fecha": 2018,
+        "precio": "$14000",
+        "categoria": "Club-Inglaterra"
+      },
+      {
+        "nombre": "botin 17",
+        "imagen": "/imag/imag-Botines/",
+        "fecha": 2018,
+        "precio": "$10000",
+        "categoria": "Club-Inglaterra"
+      },
+      {
+        "nombre": "botin 18",
+        "imagen": "/imag/imag-Botines/",
+        "fecha": "2020",
+        "precio": "$13000",
+        "categoria": "Seleccion-Portugal"
+      },
+      {
+        "nombre": "botin 19",
+        "imagen": "/imag/imag-Botines/",
+        "fecha": "2018/2019",
+        "precio": "$10500",
+        "categoria": "Club-Italia"
+      },
+      {
+        "nombre": "botin 20",
+        "imagen": "/imag/imag-Botines/",
+        "fecha": "2022/2023",
+        "precio": "$10500",
+        "categoria": "Club-Argentina"
+
+      }
+    ]  
     
   
   }
