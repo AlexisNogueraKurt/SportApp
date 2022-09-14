@@ -141,77 +141,81 @@
         "categoria": "Club-Argentina"
 
       }
+
+
     ],
     "shorts":[
       {
-        "nombre": "Camiseta Ajax",
+        "nombre": "Short 1",
         "imagen": "/imag/imag-Shorts/1.jpg",
         "fecha": "2020",
         "precio": "$12000",
         "categoria": "Club-PaisesBajos"
       },
       {
-        "nombre": "Camiseta Ajax",
+        "nombre": "Short 2",
         "imagen": "/imag/imag-Shorts/1.jpg",
         "fecha": "2020",
         "precio": "$12000",
         "categoria": "Club-PaisesBajos"
       },
       {
-        "nombre": "Camiseta Ajax",
+        "nombre": "Short 3",
         "imagen": "/imag/imag-Shorts/1.jpg",
         "fecha": "2020",
         "precio": "$12000",
         "categoria": "Club-PaisesBajos"
       },
       {
-        "nombre": "Camiseta Ajax",
+        "nombre": "Short 4",
         "imagen": "/imag/imag-Shorts/1.jpg",
         "fecha": "2020",
         "precio": "$12000",
         "categoria": "Club-PaisesBajos"
       },{
-        "nombre": "Camiseta Ajax",
+        "nombre": "Short 5",
         "imagen": "/imag/imag-Shorts/1.jpg",
         "fecha": "2020",
         "precio": "$12000",
         "categoria": "Club-PaisesBajos"
       },
       {
-        "nombre": "Camiseta Ajax",
+        "nombre": "Short 6",
         "imagen": "/imag/imag-Shorts/1.jpg",
         "fecha": "2020",
         "precio": "$12000",
         "categoria": "Club-PaisesBajos"
       },
       {
-        "nombre": "Camiseta Ajax",
+        "nombre": "Short 7",
         "imagen": "/imag/imag-Shorts/1.jpg",
         "fecha": "2020",
         "precio": "$12000",
         "categoria": "Club-PaisesBajos"
       },
       {
-        "nombre": "Camiseta Ajax",
+        "nombre": "Short 8",
         "imagen": "/imag/imag-Shorts/1.jpg",
         "fecha": "2020",
         "precio": "$12000",
         "categoria": "Club-PaisesBajos"
       },
       {
-        "nombre": "Camiseta Ajax",
+        "nombre": "Short 9",
         "imagen": "/imag/imag-Shorts/1.jpg",
         "fecha": "2020",
         "precio": "$12000",
         "categoria": "Club-PaisesBajos"
       },
       {
-        "nombre": "Camiseta Ajax",
+        "nombre": "Short 10",
         "imagen": "/imag/imag-Shorts/1.jpg",
         "fecha": "2020",
         "precio": "$12000",
         "categoria": "Club-PaisesBajos"
       }
+
+
     ],
     "gorras":[
       {
