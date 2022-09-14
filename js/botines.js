@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
         .then(respuesta => {
             botines = respuesta.data
             console.log(respuesta)
-            let divBotines = document.getElementById('shorts')
+            let divBotines = document.getElementById('botines')
             let tarjetasBotines = '<div class="columns">'
 
             for (let i = 0; i < botines.length; i++) {
