@@ -1,15 +1,15 @@
 document.addEventListener('DOMContentLoaded', () => {
 
-    const url = 'http://localhost:3000/shorts'
+    const url = 'http://localhost:3000/botines'
 
     axios.get(url)
         .then(respuesta => {
             botines = respuesta.data
             console.log(respuesta)
-            let divShorts = document.getElementById('shorts')
-            let tarjetasShorts = '<div class="columns">'
+            let divBotines = document.getElementById('shorts')
+            let tarjetasBotines = '<div class="columns">'
 
-            for (let i = 0; i < shorts.length; i++) {
+            for (let i = 0; i < botines.length; i++) {
                 tarjetasBotines += `
                     <div class="column is-one-fifth">
                         <div class="card">
