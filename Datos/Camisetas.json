@@ -435,7 +435,81 @@
         "categoria": "Club-Argentina"
 
       }
+
+
+
+    ],
+    "mochilas":[
+      {
+        "nombre": "Gorra Nike Sb",
+        "imagen": "/imag/imag-Mochilas/",
+        "fecha": "2015",
+        "precio": "$5000",
+        "marca": "Nike"
+      },
+      {
+        "nombre": "Gorra Nike Trucker",
+        "imagen": "/imag/imag-Gorras/Nike/2.jpg",
+        "fecha": "2015",
+        "precio": "$5000",
+        "marca": "Nike"
+      },
+      {
+        "nombre": "Gorra Adidas",
+        "imagen": "/imag/imag-Gorras/Adidas/1.jpg",
+        "fecha": "2015",
+        "precio": "$5000",
+        "marca": "Nike"
+      },
+      {
+        "nombre": "Gorra Adidas snaptrucker",
+        "imagen": "/imag/imag-Gorras/adidas/2.jpg",
+        "fecha": "2015",
+        "precio": "$5000",
+        "marca": "Nike"
+      },
+      {
+        "nombre": "Gorra Puma Negro Sb",
+        "imagen": "/imag/imag-Gorras/Puma/pumaNegro01.jpg",
+        "fecha": "2015",
+        "precio": "$5000",
+        "marca": "Nike"
+      },
+      {
+        "nombre": "Gorra Adidas Rojo Sb",
+        "imagen": "/imag/imag-Gorras/Adidas/adidas rojo.jpg",
+        "fecha": "2015",
+        "precio": "$5000",
+        "marca": "Nike"
+      },
+      {
+        "nombre": "Gorra Adidas Crojo",
+        "imagen": "/imag/imag-Gorras/Adidas/adidas camionero rojo.jpg",
+        "fecha": "2015",
+        "precio": "$5000",
+        "marca": "Nike"
+      },
+      {
+        "nombre": "Gorra Adidas Verde",
+        "imagen": "/imag/imag-Gorras/Adidas/adidas verde.jpg",
+        "fecha": "2015",
+        "precio": "$5000",
+        "marca": "Nike"
+      },
+      {
+        "nombre": "Gorra Puma Blanza",
+        "imagen": "/imag/imag-Gorras/Puma/gorra-blanca.jpg",
+        "fecha": "2015",
+        "precio": "$5000",
+        "marca": "Nike"
+      },
+      {
+        "nombre": "Gorra Puma Camionero",
+        "imagen": "/imag/imag-Gorras/Puma/puma camionero.jpg",
+        "fecha": "2015",
+        "precio": "$5000",
+        "marca": "Nike"
+      }
+
     ]  
-    
-  
   }
