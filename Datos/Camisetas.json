@@ -296,21 +296,21 @@
     "botines": [
       {
         "nombre": "botin 1",
-        "imagen": "/imag/imag-Botines/botin 1.jpg",
+        "imagen": "/imag/imag-Botines/1.jpg",
         "fecha": "2020",
         "precio": "$12000",
         "categoria": "Club-PaisesBajos"
       },
       {
-        "nombre": "botin 2",
-        "imagen": "/imag/imag-Botines/botin 1.jpg",
+        "nombre": "Adidias X 19.3 AG",
+        "imagen": "/imag/imag-Botines/2.jpg",
         "fecha": 2019,
         "precio": "$9999",
         "categoria": "Club-Aleman"
       },
       {
-        "nombre": "botin 3",
-        "imagen": "/imag/imag-Botines/botin 1.jpg",
+        "nombre": "Classico VI AG Blanco",
+        "imagen": "/imag/imag-Botines/3.jpg",
         "fecha": 2020,
         "precio": "$10000",
         "categoria": "Club-Brasileño"
