@@ -146,73 +146,73 @@
     ],
     "shorts":[
       {
-        "nombre": "Short 1",
+        "nombre": "Short Boca Juniors",
         "imagen": "/imag/imag-Shorts/1.jpg",
         "fecha": "2020",
         "precio": "$12000",
-        "categoria": "Club-PaisesBajos"
+        "marca": "Adidas"
       },
       {
-        "nombre": "Short 2",
-        "imagen": "/imag/imag-Shorts/1.jpg",
+        "nombre": "Short River Plate",
+        "imagen": "/imag/imag-Shorts/2.jpg",
         "fecha": "2020",
         "precio": "$12000",
-        "categoria": "Club-PaisesBajos"
+        "marca": "Adidas"
       },
       {
-        "nombre": "Short 3",
-        "imagen": "/imag/imag-Shorts/1.jpg",
+        "nombre": "Short Real Madrid",
+        "imagen": "/imag/imag-Shorts/3.jpg",
         "fecha": "2020",
         "precio": "$12000",
-        "categoria": "Club-PaisesBajos"
+        "marca": "Adidas"
       },
       {
-        "nombre": "Short 4",
-        "imagen": "/imag/imag-Shorts/1.jpg",
-        "fecha": "2020",
+        "nombre": "Short Barcelona",
+        "imagen": "/imag/imag-Shorts/4.jpg",
+        "fecha": "2017/18",
         "precio": "$12000",
-        "categoria": "Club-PaisesBajos"
+        "marca": "Nike"
       },{
-        "nombre": "Short 5",
-        "imagen": "/imag/imag-Shorts/1.jpg",
-        "fecha": "2020",
+        "nombre": "Short AC Milan",
+        "imagen": "/imag/imag-Shorts/5.jpg",
+        "fecha": "2018/19",
         "precio": "$12000",
-        "categoria": "Club-PaisesBajos"
+        "marca": "Puma"
       },
       {
-        "nombre": "Short 6",
-        "imagen": "/imag/imag-Shorts/1.jpg",
-        "fecha": "2020",
+        "nombre": "Short Club Arsenal",
+        "imagen": "/imag/imag-Shorts/6.jpg",
+        "fecha": "2018/19",
         "precio": "$12000",
-        "categoria": "Club-PaisesBajos"
+        "marca": "Puma"
       },
       {
-        "nombre": "Short 7",
-        "imagen": "/imag/imag-Shorts/1.jpg",
-        "fecha": "2020",
+        "nombre": "Short Manchester City",
+        "imagen": "/imag/imag-Shorts/7.jpg",
+        "fecha": "2021/22",
         "precio": "$12000",
-        "categoria": "Club-PaisesBajos"
+        "marca": "Puma"
       },
       {
-        "nombre": "Short 8",
-        "imagen": "/imag/imag-Shorts/1.jpg",
-        "fecha": "2020",
+        "nombre": "Short Paris Saint-Germain",
+        "imagen": "/imag/imag-Shorts/8.jpg",
+        "fecha": "2013/14",
         "precio": "$12000",
-        "categoria": "Club-PaisesBajos"
+        "marca": "Nike"
       },
       {
-        "nombre": "Short 9",
-        "imagen": "/imag/imag-Shorts/1.jpg",
-        "fecha": "2020",
+        "nombre": "Short Seleccion de El Salvador",
+        "imagen": "/imag/imag-Shorts/9.jpg",
+        "fecha": "2019",
         "precio": "$12000",
-        "categoria": "Club-PaisesBajos"
+        "marca": "Umbro"
       },
       {
-        "nombre": "Short 10",
-        "imagen": "/imag/imag-Shorts/1.jpg",
-        "fecha": "2020",
+        "nombre": "Short Seleccion de Argentina",
+        "imagen": "/imag/imag-Shorts/10.jpg",
+        "fecha": "2021",
         "precio": "$12000",
-        "categoria": "Club-PaisesBajos"
+        "marca": "Adidas"
       }
 
 
@@ -359,18 +359,18 @@
     ],
     "mochilas":[
       {
-        "nombre": "Gorra Nike Sb",
-        "imagen": "/imag/imag-Mochilas/",
+        "nombre": "Mochila Adidas Rojo",
+        "imagen": "/imag/imag-Mochilas/mochilaadidasrojo.jpg",
         "fecha": "2015",
         "precio": "$5000",
-        "marca": "Nike"
+        "marca": "Adidas"
       },
       {
-        "nombre": "Gorra Nike Trucker",
-        "imagen": "/imag/imag-Gorras/Nike/2.jpg",
+        "nombre": "Mochila Adidas Verde",
+        "imagen": "/imag/imag-Mochilas/mochilaadidasverde.jpg",
         "fecha": "2015",
         "precio": "$5000",
-        "marca": "Nike"
+        "marca": "Adidas"
       },
       {
         "nombre": "Gorra Adidas",
