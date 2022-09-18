@@ -359,72 +359,62 @@
     ],
     "mochilas":[
       {
-        "nombre": "Mochila Adidas Rojo",
-        "imagen": "/imag/imag-Mochilas/mochilaadidasrojo.jpg",
-        "fecha": "2015",
+        "nombre": "Mochila Adidas Celeste",
+        "imagen": "/imag/imag-Mochilas/1.jpg",
         "precio": "$5000",
         "marca": "Adidas"
       },
       {
-        "nombre": "Mochila Adidas Verde",
-        "imagen": "/imag/imag-Mochilas/mochilaadidasverde.jpg",
-        "fecha": "2015",
+        "nombre": "Mochila Adidas Negro",
+        "imagen": "/imag/imag-Mochilas/2.jpg",
         "precio": "$5000",
         "marca": "Adidas"
       },
       {
-        "nombre": "Gorra Adidas",
-        "imagen": "/imag/imag-Gorras/Adidas/1.jpg",
-        "fecha": "2015",
+        "nombre": "Mochila Adidas Classic Gris",
+        "imagen": "/imag/imag-Mochilas/3.jpg",
+        "precio": "$5000",
+        "marca": "Adidas"
+      },
+      {
+        "nombre": "Mochila Puma Szkonlny Rojo",
+        "imagen": "/imag/imag-Mochilas/4.jpg",
+        "precio": "$5000",
+        "marca": "Puma"
+      },
+      {
+        "nombre": "Mochila Puma Phase 21 Azul",
+        "imagen": "/imag/imag-Mochilas/5.jpg",
+        "precio": "$5000",
+        "marca": "Puma"
+      },
+      {
+        "nombre": "Mochila Puma classic Negro",
+        "imagen": "/imag/imag-Mochilas/6.jpg",
+        "precio": "$5000",
+        "marca": "Puma"
+      },
+      {
+        "nombre": "Mochila Puma Core Seasonal Negro",
+        "imagen": "/imag/imag-Mochilas/7.jpg",
+        "precio": "$5000",
+        "marca": "Puma"
+      },
+      {
+        "nombre": "Mochila Nike Elemental Azul",
+        "imagen": "/imag/imag-Mochilas/8.jpg",
         "precio": "$5000",
         "marca": "Nike"
       },
       {
-        "nombre": "Gorra Adidas snaptrucker",
-        "imagen": "/imag/imag-Gorras/adidas/2.jpg",
-        "fecha": "2015",
+        "nombre": "Mochila Nike Elemental Negro",
+        "imagen": "/imag/imag-Mochilas/10.jpg",
         "precio": "$5000",
         "marca": "Nike"
       },
       {
-        "nombre": "Gorra Puma Negro Sb",
-        "imagen": "/imag/imag-Gorras/Puma/pumaNegro01.jpg",
-        "fecha": "2015",
-        "precio": "$5000",
-        "marca": "Nike"
-      },
-      {
-        "nombre": "Gorra Adidas Rojo Sb",
-        "imagen": "/imag/imag-Gorras/Adidas/adidas rojo.jpg",
-        "fecha": "2015",
-        "precio": "$5000",
-        "marca": "Nike"
-      },
-      {
-        "nombre": "Gorra Adidas Crojo",
-        "imagen": "/imag/imag-Gorras/Adidas/adidas camionero rojo.jpg",
-        "fecha": "2015",
-        "precio": "$5000",
-        "marca": "Nike"
-      },
-      {
-        "nombre": "Gorra Adidas Verde",
-        "imagen": "/imag/imag-Gorras/Adidas/adidas verde.jpg",
-        "fecha": "2015",
-        "precio": "$5000",
-        "marca": "Nike"
-      },
-      {
-        "nombre": "Gorra Puma Blanza",
-        "imagen": "/imag/imag-Gorras/Puma/gorra-blanca.jpg",
-        "fecha": "2015",
-        "precio": "$5000",
-        "marca": "Nike"
-      },
-      {
-        "nombre": "Gorra Puma Camionero",
-        "imagen": "/imag/imag-Gorras/Puma/puma camionero.jpg",
-        "fecha": "2015",
+        "nombre": "Mochila Nike Hayward Futus Azul",
+        "imagen": "/imag/imag-Mochilas/9.jpg",
         "precio": "$5000",
         "marca": "Nike"
       }
