@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
                                 <a href="Mochilas/${mochilas[i].nombre.replace(/ /g, '_')}.html">${mochilas[i].nombre}</a>
                                 
                                     ${mochilas[i].fecha}
-                                    ${mochilas[i].categoria}
+                                    ${mochilas[i].marca}
                                 </p>
                             </header>
                             <div class="card-content">
