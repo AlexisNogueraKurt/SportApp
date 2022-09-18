@@ -295,149 +295,67 @@
     ],
     "botines": [
       {
-        "nombre": "botin 1",
+        "nombre": "Nike Phatom Venom",
         "imagen": "/imag/imag-Botines/1.jpg",
         "fecha": "2020",
-        "precio": "$12000",
-        "categoria": "Club-PaisesBajos"
+        "precio": "$12000"
       },
       {
-        "nombre": "Adidias X 19.3 AG",
+        "nombre": "Umbro Chuteiras",
         "imagen": "/imag/imag-Botines/2.jpg",
         "fecha": 2019,
-        "precio": "$9999",
-        "categoria": "Club-Aleman"
+        "precio": "$9999"
       },
       {
-        "nombre": "Classico VI AG Blanco",
+        "nombre": "Umbro Speciali 3 Pro",
         "imagen": "/imag/imag-Botines/3.jpg",
         "fecha": 2020,
-        "precio": "$10000",
-        "categoria": "Club-Brasileño"
+        "precio": "$10000"
       },
       {
-        "nombre": "botin 4",
-        "imagen": "/imag/imag-Botines/botin 1.jpg",
+        "nombre": "Nike Tiempo Legend VII",
+        "imagen": "/imag/imag-Botines/4.jpg",
         "fecha": 2019,
-        "precio": "$9999",
-        "categoria": "Club-Brasileño"
+        "precio": "$9999"
       },
       {
-        "nombre": "botin 5",
-        "imagen": "/imag/imag-Botines/botin 1.jpg",
+        "nombre": "Umbro Gambarsaehmy",
+        "imagen": "/imag/imag-Botines/5.jpg",
         "fecha": 2020,
-        "precio": "$14000",
-        "categoria": "Club-Argentino"
+        "precio": "$14000"
       },
       {
-        "nombre": "botin 6",
-        "imagen": "/imag/imag-Botines/botin 1.jpg",
+        "nombre": "Adidas Enfant Silver",
+        "imagen": "/imag/imag-Botines/6.jpg",
         "fecha": 2018,
-        "precio": "$14000",
-        "categoria": "Club-Chileno"
+        "precio": "$14000"
       },
       {
-        "nombre": "botin 7",
-        "imagen": "/imag/imag-Botines/botin 1.jpg",
+        "nombre": "Adidas X kids",
+        "imagen": "/imag/imag-Botines/7.jpg",
         "fecha": 2019,
-        "precio": "$15000",
-        "categoria": "Club-España"
+        "precio": "$15000"
       },
       {
-        "nombre": "botin 8",
-        "imagen": "/imag/imag-Botines/botin 1.jpg",
+        "nombre": "Adidas Predator",
+        "imagen": "/imag/imag-Botines/8.jpg",
         "fecha": 2020,
-        "precio": "$13500",
-        "categoria": "Club-España"
+        "precio": "$13500"
       },
       {
-        "nombre": "botin 9",
-        "imagen": "/imag/imag-Botines/botin 1.jpg",
+        "nombre": "Nike Tiempo Legend 7",
+        "imagen": "/imag/imag-Botines/9.jpg",
         "fecha": 2020,
-        "precio": "$15000",
-        "categoria": "Club-España"
+        "precio": "$15000"
+        
       },
       {
-        "nombre": "botin 10",
-        "imagen": "/imag/imag-Botines/botin 1.jpg",
+        "nombre": "Nike Premier II Soccer ",
+        "imagen": "/imag/imag-Botines/10.jpg",
         "fecha": 2020,
-        "precio": "$9500",
-        "categoria": "Club-Paraguay"
-      },
-      {
-        "nombre": "botin 11",
-        "imagen": "/imag/imag-Botines/botin 1.jpg",
-        "fecha": 2020,
-        "precio": "$10500",
-        "categoria": "Club-Argentina"
-      },
-      {
-        "nombre": "botin 12",
-        "imagen": "/imag/imag-Botines/botin 1.jpg",
-        "fecha": 2020,
-        "precio": "$11000",
-        "categoria": "Seleccion-Francia"
-      },
-      {
-        "nombre": "botin 13",
-        "imagen": "/imag/imag-Botines/botin 1.jpg",
-        "fecha": 2020,
-        "precio": "$9000",
-        "categoria": "Club-Colombia"
-      },
-      {
-        "nombre": "botin 14",
-        "imagen": "/imag/imag-Botines/botin 1.jpg",
-        "fecha": 2020,
-        "precio": "$10000",
-        "categoria": "Club-Colombia"
-      },
-      {
-        "nombre": "botin 15",
-        "imagen": "/imag/imag-Botines/botin 1.jpg",
-        "fecha": 2019,
-        "precio": "$13000",
-        "categoria": "Club-Ecuador"
-      },
-      {
-        "nombre": "botin 16",
-        "imagen": "/imag/imag-Botines/botin 1.jpg",
-        "fecha": 2018,
-        "precio": "$14000",
-        "categoria": "Club-Inglaterra"
-      },
-      {
-        "nombre": "botin 17",
-        "imagen": "/imag/imag-Botines/botin 1.jpg",
-        "fecha": 2018,
-        "precio": "$10000",
-        "categoria": "Club-Inglaterra"
-      },
-      {
-        "nombre": "botin 18",
-        "imagen": "/imag/imag-Botines/botin 1.jpg",
-        "fecha": "2020",
-        "precio": "$13000",
-        "categoria": "Seleccion-Portugal"
-      },
-      {
-        "nombre": "botin 19",
-        "imagen": "/imag/imag-Botines/botin 1.jpg",
-        "fecha": "2018/2019",
-        "precio": "$10500",
-        "categoria": "Club-Italia"
-      },
-      {
-        "nombre": "botin 20",
-        "imagen": "/imag/imag-Botines/botin 1.jpg",
-        "fecha": "2022/2023",
-        "precio": "$10500",
-        "categoria": "Club-Argentina"
-
+        "precio": "$9500"
+        
       }
-
-
-
     ],
     "mochilas":[
       {
