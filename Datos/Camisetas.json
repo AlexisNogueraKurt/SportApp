@@ -50,67 +50,11 @@
         "categoria": "Club-España"
       },
       {
-        "nombre": "Camiseta Atletic Madrid",
-        "imagen": "/imag/imag-Camisetas/Camisetas-España/10.jpg",
-        "fecha": 2020,
-        "precio": "$13500",
-        "categoria": "Club-España"
-      },
-      {
-        "nombre": "Camiseta Real Madrid Recambio",
-        "imagen": "/imag/imag-Camisetas/Camisetas-España/21.jpg",
-        "fecha": 2020,
-        "precio": "$15000",
-        "categoria": "Club-España"
-      },
-      {
         "nombre": "Camiseta Olimpia",
         "imagen": "/imag/imag-Camisetas/Camisetas-Paraguay/15.jpg",
         "fecha": 2020,
         "precio": "$9500",
         "categoria": "Club-Paraguay"
-      },
-      {
-        "nombre": "Camiseta River Oficial",
-        "imagen": "/imag/imag-Camisetas/Camisetas-Argentina/24.jpg",
-        "fecha": 2020,
-        "precio": "$10500",
-        "categoria": "Club-Argentina"
-      },
-      {
-        "nombre": "Camiseta Francia",
-        "imagen": "/imag/imag-Camisetas/Camisetas-Francia/16.jpg",
-        "fecha": 2020,
-        "precio": "$11000",
-        "categoria": "Seleccion-Francia"
-      },
-      {
-        "nombre": "Camiseta America de Cali",
-        "imagen": "/imag/imag-Camisetas/Camisetas-Colombia/25.jpg",
-        "fecha": 2020,
-        "precio": "$9000",
-        "categoria": "Club-Colombia"
-      },
-      {
-        "nombre": "Camiseta D.I.M",
-        "imagen": "/imag/imag-Camisetas/Camisetas-Colombia/23.jpg",
-        "fecha": 2020,
-        "precio": "$10000",
-        "categoria": "Club-Colombia"
-      },
-      {
-        "nombre": "Camiseta D.I.V",
-        "imagen": "/imag/imag-Camisetas/Camisetas-Ecuador/9.jpg",
-        "fecha": 2019,
-        "precio": "$13000",
-        "categoria": "Club-Ecuador"
-      },
-      {
-        "nombre": "Camiseta Mancher United",
-        "imagen": "/imag/imag-Camisetas/Camisetas-inglaterra/12.jpg",
-        "fecha": 2018,
-        "precio": "$14000",
-        "categoria": "Club-Inglaterra"
       },
       {
         "nombre": "Camiseta Man United",
@@ -125,21 +69,6 @@
         "fecha": "2020",
         "precio": "$13000",
         "categoria": "Seleccion-Portugal"
-      },
-      {
-        "nombre": "Camiseta AC Milan",
-        "imagen": "/imag/imag-Camisetas/Camisetas-Italia/13.jpg",
-        "fecha": "2018/2019",
-        "precio": "$10500",
-        "categoria": "Club-Italia"
-      },
-      {
-        "nombre": "Camiseta Boca",
-        "imagen": "/imag/imag-Camisetas/Camisetas-Argentina/Boca22.jpg",
-        "fecha": "2022/2023",
-        "precio": "$10500",
-        "categoria": "Club-Argentina"
-
       }
 
 

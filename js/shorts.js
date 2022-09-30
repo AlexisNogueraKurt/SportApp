@@ -15,9 +15,9 @@ document.addEventListener('DOMContentLoaded', () => {
                         <div class="card">
                             <header class="card-header">
                                 <p class="card-header-title">
-                                <a href="Shorts/${shorts[i].nombre.replace(/ /g, '_')}.html">${shorts[i].nombre}</a>
+                                <a href="Shorts/${shorts[i].nombre.replace(/ /g, '_')}.html">${shorts[i].nombre}</a>&nbsp;&nbsp;&nbsp;&nbsp;
                                 
-                                    ${shorts[i].fecha}
+                                    ${shorts[i].fecha}&nbsp;&nbsp;&nbsp;&nbsp;
                                     ${shorts[i].marca}
                                 </p>
                             </header>
