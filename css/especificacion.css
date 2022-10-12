@@ -1,9 +1,0 @@
-.especificacion{ 
-    height: 60rem;
-    display: flex;
-    align-items: center; 
-}
-.especificacion .box2{
-    height: 600px;
-    width: 2000px;
-}

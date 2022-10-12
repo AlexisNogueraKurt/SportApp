@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         <div class="card">
                             <header class="card-header">
                                 <p class="card-header-title">
-                                <a href="Botines/${botines[i].nombre.replace(/ /g, '_')}.html">${botines[i].nombre}</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                <a href="Botines/${botines[i].nombre.replace(/ /g, '_')}.html">${botines[i].nombre}</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                     ${botines[i].fecha}
                                 </p>
                             </header>

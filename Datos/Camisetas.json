@@ -242,7 +242,7 @@
         "precio": "$10000"
       },
       {
-        "nombre": "Nike Tiempo Legend VII",
+        "nombre": "Nike Tiempo Legend",
         "imagen": "/imag/imag-Botines/4.jpg",
         "fecha": 2019,
         "precio": "$9999"
@@ -300,49 +300,49 @@
         "marca": "Adidas"
       },
       {
-        "nombre": "Mochila Adidas Classic Gris",
+        "nombre": "Mochila Adidas Gris",
         "imagen": "/imag/imag-Mochilas/3.jpg",
         "precio": "$5000",
         "marca": "Adidas"
       },
       {
-        "nombre": "Mochila Puma Szkonlny Rojo",
+        "nombre": "Mochila Puma Rojo",
         "imagen": "/imag/imag-Mochilas/4.jpg",
         "precio": "$5000",
         "marca": "Puma"
       },
       {
-        "nombre": "Mochila Puma Phase 21 Azul",
+        "nombre": "Mochila Puma Azul",
         "imagen": "/imag/imag-Mochilas/5.jpg",
         "precio": "$5000",
         "marca": "Puma"
       },
       {
-        "nombre": "Mochila Puma classic Negro",
+        "nombre": "Mochila Puma Negro",
         "imagen": "/imag/imag-Mochilas/6.jpg",
         "precio": "$5000",
         "marca": "Puma"
       },
       {
-        "nombre": "Mochila Puma Core Seasonal Negro",
+        "nombre": "Mochila Core Negro",
         "imagen": "/imag/imag-Mochilas/7.jpg",
         "precio": "$5000",
         "marca": "Puma"
       },
       {
-        "nombre": "Mochila Nike Elemental Azul",
+        "nombre": "Mochila Elemental Azul",
         "imagen": "/imag/imag-Mochilas/8.jpg",
         "precio": "$5000",
         "marca": "Nike"
       },
       {
-        "nombre": "Mochila Nike Elemental Negro",
+        "nombre": "Mochila Elemental Negro",
         "imagen": "/imag/imag-Mochilas/10.jpg",
         "precio": "$5000",
         "marca": "Nike"
       },
       {
-        "nombre": "Mochila Nike Hayward Futus Azul",
+        "nombre": "Mochila Hayward Futus Azul",
         "imagen": "/imag/imag-Mochilas/9.jpg",
         "precio": "$5000",
         "marca": "Nike"

@@ -1,9 +1,0 @@
-.camisetas{
-    height: 20rem;
-    display: flex;
-    align-items: center;
-}
-.camisetas .box1{
-    height: 290px;
-    width: 400px;
-}

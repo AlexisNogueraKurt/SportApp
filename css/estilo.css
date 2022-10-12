@@ -1,0 +1,11 @@
+.column {
+    max-width: 300px;
+    position: relative;
+    left: 50px;
+}
+a{
+    font-size: 15px ;
+}
+p{
+    font-size: 15px;
+}
