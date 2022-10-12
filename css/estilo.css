@@ -26,8 +26,3 @@ body {
     background: url(../imag/Fondos/futbol.jpg) center top;
     background-size: cover;
 }
-.tile {
-    position: relative;
-    left: 1px;
-    max-width:1590px;
-}
