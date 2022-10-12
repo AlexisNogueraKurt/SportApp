@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     `
                 }
             }
-            
+
             console.log(tarjetasShorts)
 
             divShorts.innerHTML = tarjetasShorts
