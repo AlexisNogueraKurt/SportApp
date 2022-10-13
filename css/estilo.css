@@ -1,9 +1,4 @@
-.column {
-    max-width: 300px;
-    position: relative;
-    left: 50px;
-    
-}
+
 a{
     font-size: 14px ;
     color: black;
@@ -26,3 +21,10 @@ body {
     background: url(../imag/Fondos/futbol.jpg) center top;
     background-size: cover;
 }
+
+@media screen and (min-width: 1280px) {
+    .column{
+      margin-left: 50px;
+      margin-right: 50px;
+    }
+  }
