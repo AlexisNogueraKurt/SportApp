@@ -25,6 +25,6 @@ body {
 @media screen and (min-width: 1280px) {
     .column{
       margin-left: 50px;
-      margin-right: 50px;
+      margin-right: 9px;
     }
   }
