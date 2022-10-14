@@ -10,7 +10,7 @@ p{
     
 
 }
-audio {
+audio{
     position: relative;
     left: 500px;
     visibility: collapse;
@@ -27,4 +27,31 @@ body {
       margin-left: 50px;
       margin-right: 9px;
     }
-  }
+}
+@media screen and (min-width: 1280px) {
+    .tile{
+      margin-left: 10px;
+      margin-right: 10px;
+      margin-top: 10px;
+      
+    }
+    .image{
+        max-width: 450px;
+        max-height: 450px;
+        display: block;
+        margin: auto;
+    }
+    .table-container{
+        display: block;
+        margin: auto;
+        margin-left: 240px;
+       
+    } 
+}
+.box1{
+    width:300px; 
+    height:300px;
+    margin-top: -265px;
+    margin-left: 700px;
+    background-color : #b3d4fc;
+}
