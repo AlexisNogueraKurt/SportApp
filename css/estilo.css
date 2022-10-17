@@ -22,7 +22,7 @@ body {
     background-size: cover;
 }
 
-@media only screen and (min-width: 1280px) {
+@media only screen and (min-width: 992px) {
     .tile{
       margin-left: 10px;
       margin-right: 10px;
@@ -54,6 +54,50 @@ body {
         margin-left: 300px;
         background-color : #b3d4fc;
     }
+@media  only screen and (min-width: 1280px) {
+    .tile{
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-top: 10px;
+        
+      }
+      .image{
+          max-width: 450px;
+          max-height: 450px;
+          display: block;
+          margin: auto;
+      }
+      .box1{
+          width:200px; 
+          height:290px;
+          margin-top: -310px;
+          
+          margin-left: 500px;
+          background-color : #b3d4fc;
+      }
+      .column{
+            max-width: 19%;
+          margin-left: 10px;
+          margin-right: 10px;
+      }
+      .box2{
+          width:200px; 
+          height:290px;
+          margin-top: -291px;
+          margin-left: 300px;
+          background-color : #b3d4fc;
+      }
+      .title{
+        text-align: center;
+      }
+    .subtitle{
+        font-size: large;
+
+    }
+  
+    
+    
+}
 
     
 }
