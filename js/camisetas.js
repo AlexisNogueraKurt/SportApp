@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
 
-    const url = 'http://localhost:3000/camisetas'
+    const url = 'http://localhost:3000/api/camisetas'
 
     axios.get(url)
         .then(respuesta => {
@@ -38,7 +38,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     `
                 }
             }
-            
+
             console.log(tarjetasCamisetas)
 
             divCamisetas.innerHTML = tarjetasCamisetas

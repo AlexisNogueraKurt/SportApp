@@ -1,8 +1,7 @@
 const express = require('express')
 const app = express()
-'use strict';
-
 const fs = require('fs');
+'use strict';
 
 
 app.use(express.json())
