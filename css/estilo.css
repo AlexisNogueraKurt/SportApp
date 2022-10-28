@@ -69,10 +69,6 @@ body {
 
 }
 
-header {
-    top: 0px;
-    position: sticky;
-}
 
 .elementos {
     overflow-y: scroll;
