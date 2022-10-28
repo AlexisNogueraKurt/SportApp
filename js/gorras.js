@@ -1,11 +1,11 @@
 document.addEventListener('DOMContentLoaded', () => {
 
-    const url = 'http://localhost:3000/gorras'
+    const url = 'http://localhost:3000/api/gorras'
 
     axios.get(url)
         .then(respuesta => {
-            gorras = respuesta.data
-            console.log(respuesta)
+            gorras = respuesta.data.gorras
+            console.log(respuesta.data.gorras)
             let divGorras = document.getElementById('gorras')
             let tarjetasGorras = '<div class="columns">'
 
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     `
                 }
             }
-            
+
             console.log(tarjetasGorras)
 
             divGorras.innerHTML = tarjetasGorras

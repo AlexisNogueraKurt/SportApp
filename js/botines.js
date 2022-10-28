@@ -1,11 +1,11 @@
 document.addEventListener('DOMContentLoaded', () => {
 
-    const url = 'http://localhost:3000/botines'
+    const url = 'http://localhost:3000/api/botines'
 
     axios.get(url)
         .then(respuesta => {
-            botines = respuesta.data
-            console.log(respuesta)
+            botines = respuesta.data.botines
+            console.log(respuesta.data.botines)
             let divBotines = document.getElementById('botines')
             let tarjetasBotines = '<div class="columns">'
 
@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     `
                 }
             }
-            
+
             console.log(tarjetasBotines)
 
             divBotines.innerHTML = tarjetasBotines

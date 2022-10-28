@@ -1,11 +1,11 @@
 document.addEventListener('DOMContentLoaded', () => {
 
-    const url = 'http://localhost:3000/shorts'
+    const url = 'http://localhost:3000/api/shorts'
 
     axios.get(url)
         .then(respuesta => {
-            shorts = respuesta.data
-            console.log(respuesta)
+            shorts = respuesta.data.shorts
+            console.log(respuesta.data.shorts)
             let divShorts = document.getElementById('shorts')
             let tarjetasShorts = '<div class="columns">'
 

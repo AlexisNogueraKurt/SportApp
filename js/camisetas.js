@@ -4,8 +4,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     axios.get(url)
         .then(respuesta => {
-            camisetas = respuesta.data
-            console.log(respuesta)
+            camisetas = respuesta.data.camisetas
+            console.log(respuesta.data.camisetas)
             let divCamisetas = document.getElementById('camisetas')
             let tarjetasCamisetas = '<div class="columns">'
 
